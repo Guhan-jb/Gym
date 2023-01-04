@@ -1,0 +1,177 @@
+.about {
+    position: absolute;
+    right: 550px;
+    top: -20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 73px;
+    text-align: center;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+
+.us {
+    line-height: 73px;
+    font-family: 'Inter';
+    font-size: 80px;
+    color: #FB4B00;
+}
+
+.lor {
+    position: absolute;
+    left: 2.39%;
+    right: 2.29%;
+    top: 22.05%;
+    bottom: 74.93%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+
+}
+
+.prog {
+    position: absolute;
+    right: 600px;
+    top: 190px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 48px;
+    text-align: center;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.rams {
+    color: #FB4B00;
+}
+
+.fc {
+    position: absolute;
+    right: 950px;
+    top: 320px;
+    white-space: nowrap;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.mt {
+    position: absolute;
+    right: 870px;
+    top: 410px;
+    white-space: nowrap;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
+.bb {
+    position: absolute;
+    right: 930px;
+    top: 500px;
+    white-space: nowrap;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.lw {
+    position: absolute;
+    right: 250px;
+    top: 320px;
+    white-space: nowrap;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.yc {
+    position: absolute;
+    right: 255px;
+    top: 410px;
+    white-space: nowrap;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.at {
+    position: absolute;
+    right: 120px;
+    top: 500px;
+    white-space: nowrap;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.hb {
+    position: absolute;
+    top: 620px;
+    right: 80px;
+    height: 45px;
+    width: 150px;
+    background: #D9D9D9;
+    border-radius: 10px;
+}
+
+.home {
+    position: absolute;
+    top: -3px;
+    right: 30px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #000000;
+}
